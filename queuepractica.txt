@@ -1,0 +1,12 @@
+pila = []
+
+pila.append(23)
+pila.append(100)
+pila.append(23)
+
+for iten in pila:
+    print(iten)
+
+    auxal=pila.append.pop()
+    else:
+    pr
